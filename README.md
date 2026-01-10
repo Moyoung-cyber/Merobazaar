@@ -120,4 +120,4 @@ This project is for educational/demo purposes only.
 
 ---
 
-**Developed with Django, Bootstrap, and ❤️ by [Binit Giri]**
+**Developed with Django, Bootstrap, and ❤️ by [Binit Giri and Aakash lama]**
